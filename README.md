@@ -14,7 +14,10 @@ Integration of machine learning algorithms for accurate suggestions.
 **Technologies Used**
 
 Python: Primary programming language used for development.
+
 Machine Learning: Utilized for analyzing user preferences and generating recommendations.
+
 Streamlit: Framework for building interactive web applications.
+
 Flask: Micro web framework used for building the API backend.
 
